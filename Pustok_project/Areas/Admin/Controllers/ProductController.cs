@@ -1,5 +1,5 @@
-﻿using Diana.Areas.Admin.ViewModels;
-using Diana.ViewModels.ProductVM;
+﻿using Pustok_project.Areas.Admin.ViewModels;
+using Pustok_project.ViewModels.ProductVM;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pustok_project.Contexts;

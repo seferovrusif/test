@@ -10692,11 +10692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sefer\\OneDrive\\Desktop\\New folder (2)\\In_Uni\\Pustok front to back\\Pustok_project\\Pustok_project\\Pustok_project.csproj",
+      "projectUniqueName": "C:\\Users\\sefer\\OneDrive\\Desktop\\New folder (3)\\Pustok_project\\Pustok_project.csproj",
       "projectName": "Pustok_project",
-      "projectPath": "C:\\Users\\sefer\\OneDrive\\Desktop\\New folder (2)\\In_Uni\\Pustok front to back\\Pustok_project\\Pustok_project\\Pustok_project.csproj",
+      "projectPath": "C:\\Users\\sefer\\OneDrive\\Desktop\\New folder (3)\\Pustok_project\\Pustok_project.csproj",
       "packagesPath": "C:\\Users\\sefer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sefer\\OneDrive\\Desktop\\New folder (2)\\In_Uni\\Pustok front to back\\Pustok_project\\Pustok_project\\obj\\",
+      "outputPath": "C:\\Users\\sefer\\OneDrive\\Desktop\\New folder (3)\\Pustok_project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sefer\\AppData\\Roaming\\NuGet\\NuGet.Config",

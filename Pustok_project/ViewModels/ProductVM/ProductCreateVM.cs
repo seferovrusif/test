@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Diana.ViewModels.ProductVM;
+namespace Pustok_project.ViewModels.ProductVM;
 
 public class ProductCreateVM
 {

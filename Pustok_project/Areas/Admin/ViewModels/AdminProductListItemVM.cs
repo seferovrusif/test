@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace Diana.Areas.Admin.ViewModels
+namespace Pustok_project.Areas.Admin.ViewModels
 {
     public class AdminProductListItemVM
     {
